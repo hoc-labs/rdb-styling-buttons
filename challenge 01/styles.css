@@ -25,3 +25,10 @@ a {
 .accent-color {
   color: #FFE600;
 }
+
+.button {
+  background-color:yellow;
+  color:black;
+  padding:55px;
+  display:inline-block;
+}

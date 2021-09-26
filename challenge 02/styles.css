@@ -26,7 +26,9 @@ a {
   display: inline-block;
   background: #FFE600;
   color: black;
-  padding: 16px 32px;
+  width: 200px;
+  padding:45px;
+  margin-bottom:20px;
 }
 
 .accent-color {
